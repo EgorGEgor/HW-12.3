@@ -14,8 +14,6 @@ FROM address
 WHERE district LIKE 'K%a' AND district NOT LIKE '% %';
 <img width="449" alt="Задание 1 1" src="https://github.com/user-attachments/assets/a19aefc1-d2e4-4a0d-ace6-452df9060dc4" />
 
-
-
 ### Задание 2
 
 Получите из таблицы платежей за прокат фильмов информацию по платежам, которые выполнялись в промежуток с 15 июня 2005 года по 18 июня 2005 года **включительно** и стоимость которых превышает 10.00.
@@ -29,7 +27,7 @@ WHERE amount > 10 AND payment_date BETWEEN '2005-06-15 00:00:00' AND '2005-06-18
 <img width="455" alt="Задание 2 2" src="https://github.com/user-attachments/assets/1e142d34-994f-4ea7-8288-805dcfdc8a53" />
 
 
-
+### Задание 3
 Получите последние пять аренд фильмов.
 
 #### *Ответ:*
