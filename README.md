@@ -12,8 +12,8 @@
 SELECT DISTINCT district
 FROM address
 WHERE district LIKE 'K%a' AND district NOT LIKE '% %';
-```
-![Задание 1 1](https://github.com/user-attachments/assets/e150c145-c69b-4bf6-9946-31bfd94efc1b)
+<img width="449" alt="Задание 1 1" src="https://github.com/user-attachments/assets/a19aefc1-d2e4-4a0d-ace6-452df9060dc4" />
+
 
 
 ### Задание 2
